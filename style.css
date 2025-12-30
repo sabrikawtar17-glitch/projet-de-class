@@ -60,17 +60,20 @@ main{
   font-size: 20px;
   margin-left: 450px;
   margin-right: 450px;
+
 }  
 .D{
   background-color: crimson;
   padding: 7px;
-  border-radius: 7px;
+  border-radius: 50px / 25px;
+  text-decoration: none;
   
 }
 .L{
   
   padding: 7px;
   border-radius: 7px;
+  text-decoration: none;
 
 }
     
