@@ -17,16 +17,36 @@ header{
     margin: 0 20px;
     font-size: 30px;
     
+  
+  
   }
-  .me{ 
+  .Log{
+    width: 100px;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    border: none;
+  }
+  .Sign{
+    width: 100px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+  }
+  .me { 
     padding: 30px;
     margin: 0 20px;
     font-size: 20px;
     display: flex;
     justify-content: flex-start;
     gap: 20px;
-    margin-right: 500px;
-
+    margin-right: 700px; 
+    
+  }
+  .me a{
+    color: white;
+    text-decoration: none;
   }
   h1{ 
     padding: 20px;
@@ -58,22 +78,33 @@ main{
   justify-content: space-between;
   padding: 80px;
   font-size: 20px;
-  margin-left: 450px;
-  margin-right: 450px;
+  margin-left: 600px;
+  margin-right: 600px;
 
 }  
 .D{
-  background-color: crimson;
-  padding: 7px;
-  border-radius: 50px / 25px;
+  background-color: pink;
+  padding: 15px;
+  border-radius: 70px / 80px;
   text-decoration: none;
+  color: white;
+  width: 150px;
+  display: flex;
+  justify-content: center;
+
   
 }
 .L{
-  
-  padding: 7px;
-  border-radius: 7px;
+  width: 150px;
+  padding: 15px;
   text-decoration: none;
+  color: white;
+  border-radius: 50px;
+  color: white;
+  border: 2px solid pink;
+
+   
+
 
 }
     
